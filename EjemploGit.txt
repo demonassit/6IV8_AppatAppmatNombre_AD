@@ -1,1 +1,3 @@
 Vamos a subir y hacer pruebas de repositorio
+
+ahora les toca todo el trabajo de tarea que se supone que ya hicieron en las semanas pasadas, porque les había dejado la primera parte de ejercicios de jupiterlab con el pdf de python para análisis de datos,
